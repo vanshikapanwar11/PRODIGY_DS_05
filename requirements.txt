@@ -1,0 +1,115 @@
+# 🚗 PRODIGY_DS_05 - US Traffic Accident Analysis
+
+## 📌 Internship
+
+This project was completed as part of the **Data Science Internship at Prodigy InfoTech**.
+
+---
+
+## 📊 Task Objective
+
+Analyze traffic accident data to identify patterns related to:
+
+- Road Conditions
+- Weather Conditions
+- Time of Day
+- Accident Hotspots
+- Contributing Factors
+
+---
+
+## 📂 Dataset
+
+US Accidents Dataset (2016–2023)
+
+Source:
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 📈 Exploratory Data Analysis
+
+The project includes:
+
+- Accident Severity Distribution
+- Accidents by Year
+- Accidents by Month
+- Accidents by Day
+- Hour-wise Accident Distribution
+- Top 15 States
+- Top 20 Cities
+- Weather Condition Analysis
+- Temperature Distribution
+- Visibility Distribution
+- Humidity Distribution
+- Wind Speed Distribution
+- Road Feature Analysis
+- Accident Hotspot Visualization
+- Correlation Heatmap
+- Severity vs Weather
+- Severity by Hour
+
+---
+
+## 💼 Business Insights
+
+- California records the highest number of accidents.
+- Peak traffic hours witness more accidents.
+- Rain and poor visibility contribute significantly.
+- Junctions and traffic signals are common accident locations.
+- Urban regions experience more accidents than rural areas.
+
+---
+
+## 📁 Project Structure
+
+```
+PRODIGY_DS_05
+│
+├── data/
+│   └── US_Accidents_March23.csv
+│
+├── images/
+│
+├── notebook/
+│   └── Task5.ipynb
+│
+├── requirements.txt
+│
+└── README.md
+```
+
+---
+
+## 🚀 Outcome
+
+This project demonstrates practical skills in:
+
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Data Visualization
+- Business Insight Generationgit add .
+
+---
+
+## 👩‍💻 Author
+
+**Vanshika Panwar**
+
+B.Tech CSE (Data Science & AI)
+
+Graphic Era Hill University
+
+Data Science Intern @ Prodigy InfoTech
